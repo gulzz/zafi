@@ -10,12 +10,9 @@ ingfo = (
 """%s
  • Info script :
  	
- - author      : Romi Afrizal
+ - author      : Romi Afrizal 
  - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
- - script name : ZAFI (Zona Akun Facebook Indonesia)
+ - github      : github.com/gulzz
  - version     : 1.1
  
 %s"""%(Hj,Mt))
@@ -186,7 +183,7 @@ def postingan(romz,headers=header):
         menu()
     except Exception as e:
         exit('\n %s[!] gagal dump id'%(P))
-# START CRACK
+## START CRACK
 class ngentod:
 
     def __init__(self):
